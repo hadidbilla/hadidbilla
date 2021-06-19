@@ -1,66 +1,27 @@
-<h3 align="center">Hey! 👋 This is <a href="https://abouthadid.web.app/" target="_blank">Hadid Billa</a>. 😄 </h3>
-<h4 align="center">Hadid Billa InfoS</h4>
-<p align="center">
-  <a href="www.linkedin.com/in/hadid-billa" target="_blank">
-    <img alt="Linkedin" src="https://saadaakash.bitbucket.io/github/linkedin.png" width="40" height="40" >
-  </a>
-  <a href="https://stackoverflow.com/users/14704432/hadid-billa" target="_blank">
-    <img alt="Stack Overflow" src="https://saadaakash.bitbucket.io/github/so.png" width="40" height="40" >
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Hadid Billa</h1>
+<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh!</h3>
 
-<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadidbilla&label=Profile%20views&color=0e75b6&style=flat" alt="hadid" /> </p>
 
-### Technical Skills
+<p align="left"> <a href="https://twitter.com/HBHridoY449" target="blank"><img src="https://img.shields.io/twitter/follow/HBHridoY449?logo=twitter&style=for-the-badge" alt="hadid" /></a> </p>
 
-#### Language:
+- 💬 Ask me about **React, Node and JavaScript.**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- 📫 How to reach me **hadidbilla449@gmail.com**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cQGMGYW/Untitled-design-1.gif">
 
-#### Data:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-#### Frameworks/Platforms:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-
-#### Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/hadid-billa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hadid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007172620645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hadid" height="30" width="40" /></a>
 
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadidbilla&show_icons=true&locale=en&layout=compact" alt="hadid" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadidbilla&show_icons=true&locale=en" alt="hadid" /></p>
 
----
-
-✨ I write stupid codes to build simple products that solve complex problems - with less WTFs/min from code reviews - mostly in <a href="https://github.com/python" target="_blank">python</a> & <a href="https://github.com/nodejs" target="_blank">nodejs</a>.
-
-Things you should know -
-
-- 🔭 <b>Currently working on:</b> JavaScript, GraphQL, Reactjs, Nodejs, Expressjs
-- 🌱 <b>Getting better at:</b> JAMstack, Agile Software Development, Technical Product Management
-- 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
-- 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation
-- 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="hbhridoy449@gmail.com" target="_blank">hbhridoy449@gmail.com</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadidbilla)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadidbilla&" alt="hadid" /></p>
