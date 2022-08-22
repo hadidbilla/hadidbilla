@@ -1,28 +1,56 @@
-<h1 align="center">Hi 👋, I'm Hadid Billa</h1>
-<h3 align="center">A Software Engineer from Dhaka, Bangladesh!</h3>
+## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadidbilla&label=Profile%20views&color=0e75b6&style=flat" alt="hadid" /> </p>
+#### Now
 
-<p align="left"> <a href="https://twitter.com/HBHridoY449" target="blank"><img src="https://img.shields.io/twitter/follow/HBHridoY449?logo=twitter&style=for-the-badge" alt="hadid" /></a> </p>
+- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to JavaScript based open source projects 
 
-- 💬 Ask me about **React, Node and JavaScript.**
+#### Bio
 
-- 📫 How to reach me **hadidbilla449@gmail.com**
+- 🏢 I'm currently working at **Genesy Softwares**
+- ⚙️ I use daily: `.liquid`, `.js`, `.yml`, `.php`
+- 🌍 I'm mostly active within the **JavaScript Community**
+- 🌱 Learning all about **Full-Stack Development**
+- 💬 Ping me about **React.js**, **Nuxt.js**, **Shopify**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
+- 📫 Reach me: [linkedin.com/in/hadidbilla/](https://www.linkedin.com/in/hadidbilla/)
+- 📝 Checkout my [Resume](https://drive.google.com/drive/u/1/folders/1q7g_hpkBuNR_rlTJmT_tIJIjDe_C_j10).
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cQGMGYW/Untitled-design-1.gif">
+#### My Current Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/hadid-billa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hadid" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007172620645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hadid" height="30" width="40" /></a>
+<img height="48" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript"> <img height="48" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"> <img height="48" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vue"> <img height="48" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node"> <img height="48" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript"> <img height="48" src="https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg" alt="wordpress"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="react">
 
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadidbilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadidbilla&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="react" width="40" height="40"/> </a></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadidbilla&show_icons=true&locale=en&layout=compact" alt="hadid" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadidbilla&show_icons=true&locale=en" alt="hadid" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadidbilla&" alt="hadid" /></p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/hadidbilla/cf-stats/main/output/light_card.svg" />
+</p>
+
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/hadidbilla/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/hadidbilla">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="https://medium.com/@hadidbilla">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:hadidbilla449@gmail.com>
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
