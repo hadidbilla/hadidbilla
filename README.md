@@ -9,7 +9,7 @@
 #### Bio
 
 - 🏢 I'm currently working at **Genesy Softwares**
-- ⚙️ I use daily: `.liquid`, `.js`, `.yml`, `.php`, `.vue`, `.jsx`, `.jsx`
+- ⚙️ I use daily: `.liquid`, `.js`, `.yml`, `.php`, `.vue`, `.jsx`, `.tsx`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Full-Stack Development**
 - 💬 Ping me about **React.js**, **Nuxt.js**, **Shopify**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
