@@ -12,7 +12,7 @@
 - ⚙️ I use daily: `.liquid`, `.js`, `.yml`, `.php`, `.vue`, `.jsx`, `.tsx`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Full-Stack Development**
-- 💬 Ping me about **React.js**, **Next.js**, **Nuxt.js**, **Shopify**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
+- 💬 Ping me about **React.js**, **Next.js**, **Nuxt.js**, **Shopify**,**Shopify App**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
 - 📫 Reach me: [linkedin.com/in/hadidbilla/](https://www.linkedin.com/in/hadidbilla/)
 - 📝 Checkout my [Resume](https://drive.google.com/drive/u/1/folders/1q7g_hpkBuNR_rlTJmT_tIJIjDe_C_j10).
 
