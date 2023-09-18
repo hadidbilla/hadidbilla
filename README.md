@@ -23,10 +23,8 @@
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadidbilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadidbilla&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+[![Hadid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadidbilla&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
+[![wakatime](https://wakatime.com/badge/user/3df86613-ba63-4631-8e65-0ff18e7becad.svg)](https://wakatime.com/@3df86613-ba63-4631-8e65-0ff18e7becad)
 
 
 
