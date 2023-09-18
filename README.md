@@ -15,6 +15,8 @@
 - 💬 Ping me about **React.js**, **Next.js**, **Nuxt.js**, **Shopify**,**Shopify App**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
 - 📫 Reach me: [linkedin.com/in/hadidbilla/](https://www.linkedin.com/in/hadidbilla/)
 - 📝 Checkout my [Resume](https://drive.google.com/drive/u/1/folders/1q7g_hpkBuNR_rlTJmT_tIJIjDe_C_j10).
+- 📩 Checkout my [Email](hadidbilla449@gmail.com)
+- 📱 Checkout my [Phone](+8801611365067)
 
 #### My Current Stack
 
@@ -23,7 +25,10 @@
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
+
 [![Hadid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadidbilla&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
+
+
 [![wakatime](https://wakatime.com/badge/user/3df86613-ba63-4631-8e65-0ff18e7becad.svg)](https://wakatime.com/@3df86613-ba63-4631-8e65-0ff18e7becad)
 
 
