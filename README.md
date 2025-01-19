@@ -14,7 +14,7 @@
 - 🌱 Learning all about **Full-Stack Development**
 - 💬 Ping me about **React.js**, **Next.js**, **Nuxt.js**, **Vue.js**, **Nuxt3.js**, **Vue3.js**, **Pinia**, **Shopify**,**Shopify App**, **RestAPIs**, **Wordpress**, **Node.js**, **Express.js**
 - 📫 Reach me: [linkedin.com/in/hadidbilla/](https://www.linkedin.com/in/hadidbilla/)
-- 📝 Checkout my [Resume](https://drive.google.com/drive/u/1/folders/1q7g_hpkBuNR_rlTJmT_tIJIjDe_C_j10).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/16bCNURaW4BhViQuTWPK81DKYXMfDcqff/view?usp=sharing).
 - 📩 Checkout my [Email](hadidbilla449@gmail.com)
 - 📱 Checkout my [Phone](+8801712816995)
 -  Checkout my [Paypal](mailto:iftysfz@gmail.com)
